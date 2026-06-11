@@ -1,5 +1,0 @@
-a)el git remote add origin se usa para agregar el link de la persona que este por loggearse. Si no lo utilizamos no va a saber a donde mandar los archivos o carpetas que subamos
-b) git add es para añadir el cometido o accion que acabamos de hacer y git push es para guardar la accion y enviarla.
-c)los colores son rojo, verde y blanco.
-d)la diferencia entre rmdir y rm -r es que rmdir borra la carpeta con todos los archivos y rm -r borra carpetas vacias.
-e)con el comando "cd .." volvemos una carpeta atras.

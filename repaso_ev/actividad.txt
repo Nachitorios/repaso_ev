@@ -1,0 +1,8 @@
+a-) Repositorio local es donde tenes tus archivos, osea tu computadora en tu red local, el staging area es un punto entre el local y remoto donde se esta apunto de subir el archivo mientras sigue en el punto local.
+El repositorio remoto es basicamente una nube para tus archivos y tenerlos guardados en una nube
+
+b-)Aparece como modified ya que el archivo fue modificado a traves del commit
+
+c-)Untracked es basicamente archivos que no han sido añadidos, basicamente no trackeados los modified son archivos modificados a traves del commit y staged son archivos ya preparados para subir al repositorio remoto
+
+d-)el Git add junto al git commit -m
